@@ -32,3 +32,5 @@ Mình đang tập trung vào unity nên mấy con bot mình code trên dis sẽ 
 ### Liên lạc?
 Discord: Qân#7730
 Fb: để sau :))
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CallMeRy4n)](https://github.com/anuraghazra/github-readme-stats)
