@@ -5,7 +5,7 @@ Xin chào, mình là Quân, một lập trình viên kiêm HS
 
 Mình ở đây lấy nickname là Ry4n hoặc Qân
 
-Mình sinh 2k6, là nam
+Mình sinh 2318921898321, là nam
 
 ### Lý do học code, bắt đầu khi nào?
 Mình học code do bắt đầu từ việc mình ghét hacker :)
