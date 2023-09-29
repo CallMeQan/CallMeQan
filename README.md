@@ -8,8 +8,7 @@ Im just a small developer with many crazy ideas. Used to mod minecraft, osu!, ma
 </a>
 
 ### :star: Preview Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CallMeQan&theme=synthwave&show_icons=true&rank_icon=github)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CallMeQan&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CallMeQan&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CallMeQan&layout=compact&theme=synthwave&show_icons=true)
 
