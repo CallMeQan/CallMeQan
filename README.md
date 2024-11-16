@@ -6,7 +6,7 @@ I've been learning coding for 8+ years as my hobby. Starting from Java to PHP th
 * 🏫 An undergraduate student (First year) and internship at **Vietnamese-German University**.
 * ✉️  You can contact me at [minhquan99k@gmail.com](mailto:minhquan99k@gmail.com)
 * 🧠  I'm learning Typescript, how to work and manage a team!
-* 🤝  I'm open to collaborating on osu! project, building a website or working together in competitive programming (Codeforces or Leetcode)!
+* 🤝  I'm open to collaborating on osu! project, building a website or training together in competitive programming (Codeforces or Leetcode)!
 
 ## Achievements
 - 3rd place in the city-level IT competition for excellent students in Ho Chi Minh City, Vietnam, 2023 - 2024. [More information here](https://github.com/CallMeQan/Homework)
@@ -16,7 +16,13 @@ I've been learning coding for 8+ years as my hobby. Starting from Java to PHP th
   <img src="https://img.shields.io/badge/@qanthehulk-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
 </a>
 <a href="https://www.facebook.com/qan.discord/">
-  <img src="https://img.shields.io/badge/Minh_Quan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Discord Badge"/>
+  <img src="https://img.shields.io/badge/Minh_Quan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+</a>
+<a href="https://leetcode.com/u/CallMeQan/">
+  <img src="https://img.shields.io/badge/CallMeQan-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=ffa116" alt="Leetcode Badge"/>
+</a>
+<a href="https://codeforces.com/profile/Qan">
+  <img src="https://img.shields.io/badge/CallMeQan-1a1a1a?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
 </a>
 
 ## Skills
