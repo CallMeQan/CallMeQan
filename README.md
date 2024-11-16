@@ -2,11 +2,11 @@
 ### About Me
 I've been learning coding for 8+ years as my hobby. Starting from Java to PHP then Python and Javascript, and now working on Typescript!
 
-* 🌍  I'm based in Viet Nam
+* 🌍  I'm living in Ho Chi Minh City, Viet Nam.
 * 🏫 An undergraduate student (First year) and internship at **Vietnamese-German University**.
 * ✉️  You can contact me at [minhquan99k@gmail.com](mailto:minhquan99k@gmail.com)
 * 🧠  I'm learning Typescript, how to work and manage a team!
-* 🤝  I'm open to collaborating on osu! or competitive programming!
+* 🤝  I'm open to collaborating on osu! project, building a website or working together in competitive programming (Codeforces or Leetcode)!
 
 ## Achievements
 - 3rd place in the city-level IT competition for excellent students in Ho Chi Minh City, Vietnam, 2023 - 2024. [More information here](https://github.com/CallMeQan/Homework)
@@ -14,6 +14,9 @@ I've been learning coding for 8+ years as my hobby. Starting from Java to PHP th
 ## Contact more
 <a href="https://discord.com/users/603460160307855371">
   <img src="https://img.shields.io/badge/@qanthehulk-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+</a>
+<a href="https://www.facebook.com/qan.discord/">
+  <img src="https://img.shields.io/badge/Minh_Quan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Discord Badge"/>
 </a>
 
 ## Skills
