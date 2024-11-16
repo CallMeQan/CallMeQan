@@ -3,13 +3,14 @@
 I've been learning coding for 8+ years as my hobby. Starting from Java to PHP then Python and Javascript, and now working on Typescript!
 
 * 🌍  I'm living in Ho Chi Minh City, Viet Nam.
-* 🏫 An undergraduate student (First year) and internship at **Vietnamese-German University**.
+* 🏫  An undergraduate student (First year) and internship at **Vietnamese-German University**.
 * ✉️  You can contact me at [minhquan99k@gmail.com](mailto:minhquan99k@gmail.com)
 * 🧠  I'm learning Typescript, how to work and manage a team!
 * 🤝  I'm open to collaborating on osu! project, building a website or training together in competitive programming (Codeforces or Leetcode)!
+* 🎮  My favorite games are osu! and Minecraft.
 
 ## Achievements
-- 3rd place in the city-level IT competition for excellent students in Ho Chi Minh City, Vietnam, 2023 - 2024. [More information here](https://github.com/CallMeQan/Homework)
+- **3rd place** in the city-level IT competition for excellent students in Ho Chi Minh City, Vietnam, 2023 - 2024 (HSG TPHCM). [More information here](https://github.com/CallMeQan/Homework)
 
 ## Contact more
 <a href="https://discord.com/users/603460160307855371">
@@ -20,9 +21,6 @@ I've been learning coding for 8+ years as my hobby. Starting from Java to PHP th
 </a>
 <a href="https://leetcode.com/u/CallMeQan/">
   <img src="https://img.shields.io/badge/CallMeQan-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=ffa116" alt="Leetcode Badge"/>
-</a>
-<a href="https://codeforces.com/profile/Qan">
-  <img src="https://img.shields.io/badge/CallMeQan-1a1a1a?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
 </a>
 
 ## Skills
