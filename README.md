@@ -1,16 +1,13 @@
 <div align="center">
   <img width=180 src="https://avatars.githubusercontent.com/callmeqan"/>
 </div>
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=callmeqan&icon=5&color=6"/>
-</div>
 <h2>About Me</h2>
-<p>Hi, I'm Chau Minh Quan (also known as Qan), I've been learning coding for 8+ years as my hobby. Starting from Java to PHP then Python and Javascript, and now working on Typescript!</p>
+<p>Hi, I'm Chau Minh Quan (also known as Qan), I've been learning coding for 8+ years as my hobby. Starting from Java to PHP then Python and Javascript, and now working on Typescript and Go!</p>
 <ul>
 <li>🌍  I'm living in Ho Chi Minh City, Viet Nam.</li>
 <li>🏫  An undergraduate student (First year) and internship at <b>Vietnamese - German University</b></li>
 <li>✉️  You can contact me at <a href="mailto:minhquan99k@gmail.com">minhquan99k@gmail.com</a>.</li>
-<li>🧠  I'm learning Typescript, how to work and manage a team!</li>
+<li>🧠  I'm learning Typescript, Golang, how to work and manage a team!</li>
 <li>🤝  I'm open to collaborating on osu! project, building a website, or training together in competitive programming (Codeforces or Leetcode)!</li>
 <li>🎮  My favorite games are osu! and Minecraft.</li>
 </ul>
