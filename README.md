@@ -24,6 +24,9 @@
 <a href="https://x.com/qanthehulk">
   <img src="https://img.shields.io/badge/@qanthehulk-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
 </a>
+<a href="https://www.linkedin.com/in/chau-minh-quan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+</a>
 
 <h2>Achievements</h2>
 <ul>
