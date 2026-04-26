@@ -1,11 +1,6 @@
 <h2 align="left">:wave: Hi! I'm Chau Minh Quan (also known as Qan)</h2>
 <p>I do Security/DevOps Engineering things</p>
-<ul>
-   <li>🌍  I'm living in Ho Chi Minh City, Viet Nam.</li>
-   <li>🏫  An undergraduate student (Second year) at <b>Vietnamese - German University</b></li>
-   <li>🤝  I'm open to collaborating on osu! project, building a SaaS, or training together in competitive programming (Codeforces or Leetcode)!</li>
-   <li>🎮  My favorite games are osu! and Minecraft.</li>
-</ul>
+<p>An undergraduate student (Second year) at <b>Vietnamese - German University</b></p>
 <p align="left">
    <a href="https://github.com/CallMeQan">
    <img src="https://komarev.com/ghpvc/?username=CallMeQan&label=Profile%20Visits&color=blue&style=for-the-badge"/>
@@ -26,7 +21,7 @@
 <table border="0">
    <tr>
       <td>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallMeQan" alt="Top Langs" height="195px" />
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallMeQan&theme=dracula" alt="Top Langs" height="195px" />
       </td>
       <td>
          <img src="https://github-readme-stats.vercel.app/api?username=CallMeQan&show_icons=true&theme=dracula" alt="GitHub stats" height="195px" />
@@ -34,24 +29,8 @@
    </tr>
 </table>
 <h2>Skills</h2>
-<table>
-   <tr>
-      <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></td>
-      <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></td>
-      <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></td>
-      <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></td>
-      <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></td>
-      <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></td>
-      <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></td>
-      <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></td>
-      <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></td>
-      <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></td>
-      <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></td>
-      <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></td>
-      <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></td>
-   </tr>
-</table>
-<h2>Competitive Programming</h2>
+<img src="https://skillicons.dev/icons?i=python,cloudflare,aws,linux,go,cpp,docker,typescript" />
+
 <table border="0">
    <tr>
       <td>
@@ -66,5 +45,7 @@
       </td>
    </tr>
 </table>
-<h2>My favorite project</h2>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CallMeQan&repo=yayda)](https://github.com/CallMeQan/yayda)
+<h2>My Project</h2>
+<a href="https://github.com/CallMeQan/yayda">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CallMeQan&repo=yayda"/>
+</a>
